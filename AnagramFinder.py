@@ -1,6 +1,6 @@
 """
 Anagram Finder starter code:
-Written by Mr. Sharick
+Written by my CS teacher
 """
 
 #you may need to change this if you put the text file in a different folder or name it something else
